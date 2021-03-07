@@ -1,16 +1,20 @@
-#### Git and Github
+# Git
 
-###### Git is used for version control. Suppose you want to make different versions of an application, that is version control
+###### 		Git is a technology used to facilitate parallel development. It is used for version control. Suppose you want to make different versions of an application and switch between various versions of the same software, version control comes to play.
 
-###### Github is a git repository hosting service. It provides a Web based graphical interface
+# GitHub
 
-#### Make a New Repository
+###### Github is a git repository hosting service. It provides a Web based graphical interface for hosting work files.
+
+## Making a new repository in GitHub
 ````
-Go on github 
-CLick on new 
+Create an account and sign in to [GitHub](https://www.github.com) 
+Click on new 
 Write Repository name 
 Click on create repository
 ````
+## Now in your local workstation, perform the following 
+
 #### Initialize the github repository 
 ````
 git init 
@@ -83,6 +87,3 @@ Write any comment if you want to
 Click on Create Pull Request
 ````
 ###### Congratulations, You have successfully made the pull request :smile:
-
-
-
